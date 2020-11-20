@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+}
+
+div {
+	background-color: #00FFFF;
+}
+
+p {
+	width: 50%;
+	/*border: 1px solid black;*/
+	float: left;
+	padding: 10px;
+}
+
+#p1 {
+	/*background-color: #126754;*/
+}
+
+#p2 {
+	/*background-color: #f0f0f0;*/
+}
